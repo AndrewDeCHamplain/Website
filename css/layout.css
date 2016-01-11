@@ -336,7 +336,7 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: cc 2s ease;
 }
 .python {
-  	width: 50%;
+  	width: 60%;
   	-moz-animation: python 2s ease;
   	-webkit-animation: python 2s ease;
 }
@@ -354,6 +354,16 @@ ul#nav li.current a { color: #F06000; }
   	width: 30%;
   	-moz-animation: sql 2s ease;
   	-webkit-animation: sql 2s ease;
+}
+.HTML {
+  	width: 20%;
+  	-moz-animation: HTML 2s ease;
+  	-webkit-animation: HTML 2s ease;
+}
+.CSS {
+  	width: 20%;
+  	-moz-animation: CSS 2s ease;
+  	-webkit-animation: CSS 2s ease;
 }
 
 @-moz-keyframes photoshop {
